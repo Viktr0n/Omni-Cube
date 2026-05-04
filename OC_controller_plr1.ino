@@ -28,8 +28,8 @@ bool deviceConnected = false; // Is the device connected
 
 unsigned long inactiveMillis; // Milliseconds since last input
 unsigned long offMillis; // Millis since last pressing A + B
-#define INACTIVE_POWER_OFF 120 // Ammount of seconds of inactivity to power off
-#define ACTIVE_POWER_OFF 2.5 // Ammount of seconds of pushing A + B to power off
+#define INACTIVE_POWER_OFF 120 // Amount of seconds of inactivity to power off
+#define ACTIVE_POWER_OFF 2.5 // Amount of seconds of pushing A + B to power off
 
 // Controller inputs
 bool controllerInputsCurrent[6] = {}; // 0 - up, 1 - right, 2 - down, 3 - left, 4 - b, 5 - a
