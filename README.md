@@ -4,12 +4,9 @@
 
 The Omni-Cube is a gaming console with an omnidirectional Andotrope display. It is a final thesis project for upper secondary school that addresses the challenge of restricted viewing angles in traditional multiplayer gaming by providing a 360-degree display experience.
 
-![Alt Text](https://keep.google.com/u/0/media/v2/1rRuee92HKxfslpUUs4ZNLDu9oBkvljGiVndKCTUIK2twPdt6G8o0fIWardHZ/1iH54a87PIjWAevOvEieSXOmdeeOdom81ootre0DaP0HGfwNgsEWxqKR9V78cPQ?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
-![Alt Text](https://keep.google.com/u/0/media/v2/1fCYU1UYe79iMGhG4s65D34NhbWBB8XkzavM5xuTW0DpDS5HbLyDFt6ADdrcxYg/1ywns-az_59QnHjnidwVF2z1OPsLqZdcy0uPOkjU4V5b0Cd3CJrSDod-N1sok?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Caudio%2Faac&sz=2048)
-![Alt Text](https://keep.google.com/u/0/media/v2/1N4I7j_4k69fGnybG904-UOYAfOFImnZMkwaK2BxaP3jS3F8uSfGrmbXpNhrFcA/1XNUiikmUErNsfOmZq73UF0V3hnfq_CQ7hky1y3sadnlbBAllq0v7xVs1L6qy?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Caudio%2Faac&sz=468)
-
-
-
+![Omni-Cube]()
+![Controller](Controller.png)
+![Logo](Logo.png)
 
 ## Hardware Components
 
@@ -58,5 +55,5 @@ The User_manual describes how to start the project, how to maneuver the main men
 
 ##Circuit Diagram
 
-![Alt Text](https://keep.google.com/u/0/media/v2/165WV1BjKDGqdecFQhjzCtpzGa7yx0QyUiTySv2LqYQE-854jEcqQMiNsLmVOiQ/14hbNCjL7yiByiodkNHeP_JIwQP0uFi-TWXgOFoQ5Df9YnDoWTwzWsu41WZ-Yrw?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Caudio%2Faac&sz=1598)
-![Alt Text](https://keep.google.com/u/0/media/v2/1c04vhMs-IdyRPl7VtjEtHBJcvvDUtWOR1U1ynSlyFuO_WiGvuzCegNs5DRPE/1IK7XZyBmojUs3ie0OJW_pI-PVrF5iJ8exE3JtrL5WaCi5YAZ-1dMkhECSp7p?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Caudio%2Faac&sz=1562)
+![Omni-Cube Diagram](OmniCubeDiagram.png)
+![Controller Diagram](KontrollDiagram.png)
