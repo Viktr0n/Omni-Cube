@@ -4,6 +4,9 @@
 
 The Omni-Cube is a gaming console with an omnidirectional Andotrope display. It is a final thesis project for upper secondary school that addresses the challenge of restricted viewing angles in traditional multiplayer gaming by providing a 360-degree display experience.
 
+![Alt Text]()
+
+
 
 ## Hardware Components
 
