@@ -45,3 +45,7 @@ The User_manual describes how to start the project, how to maneuver the main men
 - Bluetooth Low Energy (BLE)
 - RA8875 Display Controller
 - Raspberry Pi GPIO Control
+- Cad
+- Fusion360
+- 3DModels
+- BambuStudio
