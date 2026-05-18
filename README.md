@@ -4,8 +4,6 @@
 
 The Omni-Cube is a gaming console with an omnidirectional Andotrope display. It is a final thesis project for upper secondary school that addresses the challenge of restricted viewing angles in traditional multiplayer gaming by providing a 360-degree display experience.
 
-This repository contains the codes used in this project. For the 3D models, please visit this repo:
-https://github.com/Kingfisk/Omni-Cube_3DModels 
 
 ## Hardware Components
 
