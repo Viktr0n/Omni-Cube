@@ -53,7 +53,7 @@ The User_manual describes how to start the project, how to maneuver the main men
 - 3DModels
 - BambuStudio
 
-##Circuit Diagram
+## Circuit Diagram
 
 ![Omni-Cube Diagram](Attatchment/OmniCubeDiagram.png)
 ![Controller Diagram](Attatchment/KontrollDiagram.png)
