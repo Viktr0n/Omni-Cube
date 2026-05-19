@@ -6,7 +6,8 @@ The Omni-Cube is a gaming console with an omnidirectional Andotrope display. It 
 
 ![Omni-Cube](Attatchment/Omni-Cube.gif) 
 <img src="Attatchment/Controller.png" alt="Controller" width="600">
-![Logo](Attatchment/Logo.png)
+<img src="Attatchment/Logo.jpeg" alt="Logo" width="300">
+
 
 ## Hardware Components
 
