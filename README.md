@@ -55,5 +55,5 @@ The User_manual describes how to start the project, how to maneuver the main men
 
 ## Circuit Diagram
 
-![Omni-Cube Diagram](Attatchment/OmniCubeDiagram(Darkmode).png)
+![Omni-Cube Diagram](Attatchment/Omni-CubeDiagram(Darkmode).png)
 ![Controller Diagram](Attatchment/ControllerDiagram(DarkMode).png)
